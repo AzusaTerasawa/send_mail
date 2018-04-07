@@ -10,8 +10,6 @@
 $DIR_INIT  = "D:\Froebel運用\Send_JOB_Result"
 $INIT_FILE = "Send_JOB_Result_2.ini"
 
-## iniファイルの内容をハッシュキー化
-##$INI_Hash_ALL = @{}
 
 ##
 ##	Iniファイルを読み込んでハッシュとして溜め込む
